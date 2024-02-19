@@ -4,15 +4,11 @@ This repository contains a collection of my data analytics and science projects.
 
 ## Projects
 
-### Project 1: Data Visualization with Python
-- Description: A project showcasing various data visualization techniques using Python libraries such as Matplotlib and Seaborn.
-- [View Project](finproj.ipynb)
-
-### Project 2: Machine Learning Predictive Modeling
-- Description: An implementation of machine learning algorithms for predictive modeling tasks, including data preprocessing, model training, and evaluation.
-- [View Project](project2/)
-
-<!-- Add more projects as needed -->
+### Stock Market Noise Analysis and Simulation
+[View Project](finproj.ipynb)
+- Description: Utilized Python in conjunction with NumPy, Pandas, Matplotlib, and Seaborn to conduct comprehensive financial analysis. Tasks included correlation studies, noise ratio calculations, and Monte Carlo simulations. Implemented Geometric Brownian Motion (GBM) for stock price simulations, reflecting best practices in high-performance computing. Demonstrated proficiency in Linux OS for system management and data analysis tasks. Explored and assessed various approaches including denoising, wavelet transform, and machine learning techniques to analyze and understand the underlying nature of stock market behavior.
+- Duration: Oct 2023 – Dec 2023
+- Technologies: Python, Pandas, Matplotlib, NumPy, Seaborn
 
 ## About Me
 Hi, I'm [Your Name], a data enthusiast passionate about exploring and analyzing data to derive insights and make data-driven decisions.
