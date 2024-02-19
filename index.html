@@ -3,14 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Data Analytics & Science Portfolio</title>
+    <title>My Projects</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
         }
         header {
             background-color: #333;
@@ -22,54 +20,78 @@
             margin-top: 0;
         }
         .container {
-            max-width: 800px;
+            max-width: 1200px;
             margin: auto;
             padding: 20px;
         }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-gap: 20px;
+        }
         .project {
-            background-color: #fff;
+            background-color: #f9f9f9;
             border-radius: 5px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
             padding: 20px;
-            margin-bottom: 20px;
+        }
+        .project img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
         }
         .project h2 {
-            margin-top: 0;
+            margin-top: 10px;
         }
-        .project p {
-            margin-top: 5px;
+        .project ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .project ul li {
+            margin-bottom: 5px;
         }
     </style>
 </head>
 <body>
 
 <header>
-    <h1>Data Analytics & Science Portfolio</h1>
+    <h1>My Projects</h1>
 </header>
 
 <div class="container">
-    <div class="project">
-        <h2>Stock Market Noise Analysis and Simulation</h2>
-        <p><a href="finproj.ipynb">View Project</a></p>
-        <p>Description: Utilized Python in conjunction with NumPy, Pandas, Matplotlib, and Seaborn to conduct comprehensive financial analysis. Tasks included correlation studies, noise ratio calculations, and Monte Carlo simulations. Implemented Geometric Brownian Motion (GBM) for stock price simulations, reflecting best practices in high-performance computing. Demonstrated proficiency in Linux OS for system management and data analysis tasks. Explored and assessed various approaches including denoising, wavelet transform, and machine learning techniques to analyze and understand the underlying nature of stock market behavior.</p>
-        <p>Duration: Oct 2023 – Dec 2023</p>
-        <p>Technologies: Python, Pandas, Matplotlib, NumPy, Seaborn</p>
+    <div class="grid">
+        <div class="project">
+            <img src="project1.jpg" alt="Project 1">
+            <h2>Project 1 Title</h2>
+            <ul>
+                <li>Description bullet 1</li>
+                <li>Description bullet 2</li>
+                <li>Description bullet 3</li>
+            </ul>
+        </div>
+        
+        <div class="project">
+            <img src="project2.jpg" alt="Project 2">
+            <h2>Project 2 Title</h2>
+            <ul>
+                <li>Description bullet 1</li>
+                <li>Description bullet 2</li>
+                <li>Description bullet 3</li>
+            </ul>
+        </div>
+        
+        <div class="project">
+            <img src="project3.jpg" alt="Project 3">
+            <h2>Project 3 Title</h2>
+            <ul>
+                <li>Description bullet 1</li>
+                <li>Description bullet 2</li>
+                <li>Description bullet 3</li>
+            </ul>
+        </div>
+
+        <!-- Add more project divs as needed -->
     </div>
-
-    <!-- Add more projects as needed -->
-
 </div>
-
-<footer>
-    <h2>About Me</h2>
-    <p>Hi, I'm [Your Name], a data enthusiast passionate about exploring and analyzing data to derive insights and make data-driven decisions.</p>
-
-    <h2>Contact Information</h2>
-    <ul>
-        <li>LinkedIn: <a href="https://www.linkedin.com/in/your-profile/">Your LinkedIn Profile</a></li>
-        <li>Email: your.email@example.com</li>
-    </ul>
-</footer>
 
 </body>
 </html>
