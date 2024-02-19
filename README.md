@@ -9,10 +9,10 @@ This repository contains a collection of my data science projects. Each project 
 - Duration: Oct 2023 – Dec 2023
 - Technologies: Python, Pandas, Matplotlib, NumPy, Seaborn
 
-### Twitter Sentiment Analysis with Natural Language Processing [View Project](stockproj.ipynb)
-- Description: Trained a machine learning model to perform sentiment analysis on Twitter data, achieving an accuracy of 96%. Utilized natural language processing techniques, including tokenization and feature encoding, to preprocess textual data and create a functional model using the nltk library. Implemented data preprocessing techniques, such as feature scaling and normalization, to improve the accuracy of the model’s predictions.
-- Duration: Mar 2023 – Present
-- Technologies: Python, nltk
+### Twitter Sentiment Analysis with Natural Language Processing [View Project](twitternlp.ipynb)
+- Description: Developed a Twitter sentiment analysis model leveraging BERT (Bidirectional Encoder Representations from Transformers) with TensorFlow and Keras. Preprocessed Twitter data using BERT tokenizer for tokenization and contextual word embeddings. Trained and fine-tuned the BERT model on a large Twitter dataset to accurately classify tweets into positive, negative, or neutral sentiments.
+- Duration: Mar 2023 – Apr 2023
+- Technologies: Python, nltk, Tensorflow, Keras, Bert
 
 ## About Me
 Hi, I'm Orhan Emir Gozutok, a data enthusiast passionate about exploring and analyzing data to derive insights and make data-driven decisions.
