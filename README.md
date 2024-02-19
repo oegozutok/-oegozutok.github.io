@@ -11,7 +11,7 @@ This repository contains a collection of my data analytics and science projects.
 - Technologies: Python, Pandas, Matplotlib, NumPy, Seaborn
 
 ## About Me
-Hi, I'm [Your Name], a data enthusiast passionate about exploring and analyzing data to derive insights and make data-driven decisions.
+Hi, I'm Orhan Emir Gozutok, a data enthusiast passionate about exploring and analyzing data to derive insights and make data-driven decisions.
 
 ## Contact Information
 - LinkedIn: [Orhan Emir Gozutok](https://www.linkedin.com/in/oegozutok/)
