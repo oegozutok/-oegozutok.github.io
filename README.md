@@ -1,6 +1,6 @@
 # Data Analytics & Science Portfolio
 
-This repository contains a collection of my data analytics and science projects. Each project is briefly described below along with a link to its detailed documentation or code.
+This repository contains a collection of my data science projects. Each project is briefly described below along with a link to its detailed documentation or code.
 
 ## Projects
 
