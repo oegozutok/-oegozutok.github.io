@@ -14,7 +14,7 @@ This repository contains a collection of my data analytics and science projects.
 Hi, I'm [Your Name], a data enthusiast passionate about exploring and analyzing data to derive insights and make data-driven decisions.
 
 ## Contact Information
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- Email: your.email@example.com
+- LinkedIn: [Orhan Emir Gozutok](https://www.linkedin.com/oegozutok)
+- Email: oegozutok@arizona.edu
 
 Feel free to reach out to me if you have any questions or would like to collaborate on a project.
