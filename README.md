@@ -4,11 +4,15 @@ This repository contains a collection of my data analytics and science projects.
 
 ## Projects
 
-### Stock Market Noise Analysis and Simulation
-[View Project](stockproj.ipynb)
+### Stock Market Noise Analysis and Simulation [View Project](stockproj.ipynb)
 - Description: Utilized Python in conjunction with NumPy, Pandas, Matplotlib, and Seaborn to conduct comprehensive financial analysis. Tasks included correlation studies, noise ratio calculations, and Monte Carlo simulations. Implemented Geometric Brownian Motion (GBM) for stock price simulations, reflecting best practices in high-performance computing. Demonstrated proficiency in Linux OS for system management and data analysis tasks. Explored and assessed various approaches including denoising, wavelet transform, and machine learning techniques to analyze and understand the underlying nature of stock market behavior.
 - Duration: Oct 2023 – Dec 2023
 - Technologies: Python, Pandas, Matplotlib, NumPy, Seaborn
+
+### Twitter Sentiment Analysis with Natural Language Processing [View Project](stockproj.ipynb)
+- Description: Trained a machine learning model to perform sentiment analysis on Twitter data, achieving an accuracy of 96%. Utilized natural language processing techniques, including tokenization and feature encoding, to preprocess textual data and create a functional model using the nltk library. Implemented data preprocessing techniques, such as feature scaling and normalization, to improve the accuracy of the model’s predictions.
+- Duration: Mar 2023 – Present
+- Technologies: Python, nltk
 
 ## About Me
 Hi, I'm Orhan Emir Gozutok, a data enthusiast passionate about exploring and analyzing data to derive insights and make data-driven decisions.
