@@ -5,7 +5,7 @@ This repository contains a collection of my data analytics and science projects.
 ## Projects
 
 ### Stock Market Noise Analysis and Simulation
-[View Project](finproj.ipynb)
+[View Project](stockproj.html)
 - Description: Utilized Python in conjunction with NumPy, Pandas, Matplotlib, and Seaborn to conduct comprehensive financial analysis. Tasks included correlation studies, noise ratio calculations, and Monte Carlo simulations. Implemented Geometric Brownian Motion (GBM) for stock price simulations, reflecting best practices in high-performance computing. Demonstrated proficiency in Linux OS for system management and data analysis tasks. Explored and assessed various approaches including denoising, wavelet transform, and machine learning techniques to analyze and understand the underlying nature of stock market behavior.
 - Duration: Oct 2023 – Dec 2023
 - Technologies: Python, Pandas, Matplotlib, NumPy, Seaborn
