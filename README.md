@@ -6,7 +6,7 @@ This repository contains a collection of my data analytics and science projects.
 
 ### Project 1: Data Visualization with Python
 - Description: A project showcasing various data visualization techniques using Python libraries such as Matplotlib and Seaborn.
-- [View Project](Stock Market Simulation.ipynb)
+- [View Project](finproj.ipynb)
 
 ### Project 2: Machine Learning Predictive Modeling
 - Description: An implementation of machine learning algorithms for predictive modeling tasks, including data preprocessing, model training, and evaluation.
